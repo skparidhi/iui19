@@ -1,0 +1,36 @@
+{
+    "list":[
+        {
+            "title": "Soaring of Albatross",
+            "link": "https://www.india.gov.in/",
+            "img": "images/insp/1_alba.png",
+            "desc": 
+            {
+              "shortdesc": "Albatrosses excel in an extreme travelling performance by covering huge distances in their foraging trips with sustained non-flapping flight. Flight recordings show distances of thousands of kilometres as well as flights around the world in 46 days. Furthermore, albatrosses are able to fly persistently at high speed by using favourable winds.",
+              "longdesc": "Scalzi"
+            },
+            "audio": "",
+            "cad": "CAD Models/1_alba/scene.gltf"
+        },
+        {
+            "title": "The Lock Artist",
+            "cad": "",
+            "link": "https://www.india.gov.in/",
+            "img": "la.jpg",
+            "author": {
+              "firstName": "Steve",
+              "lastName": "Hamilton"
+            }
+        },
+        {
+            "title": "HTML5",
+            "cad": "CAD Models/scene.gltf",
+            "link": "https://www.india.gov.in/",
+            "img": "clogo.png",
+            "author": {
+              "firstName": "Remy",
+              "lastName": "Sharp"
+            }
+        }
+      ]
+}
