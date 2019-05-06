@@ -2,35 +2,87 @@
     "list":[
         {
             "title": "Soaring of Albatross",
-            "link": "https://www.india.gov.in/",
+            "link": "https://en.wikipedia.org/wiki/Albatross",
             "img": "images/insp/1_alba.png",
             "desc": 
             {
               "shortdesc": "Albatrosses excel in an extreme travelling performance by covering huge distances in their foraging trips with sustained non-flapping flight. Flight recordings show distances of thousands of kilometres as well as flights around the world in 46 days. Furthermore, albatrosses are able to fly persistently at high speed by using favourable winds.",
-              "longdesc": "Scalzi"
+              "longdesc": ""
             },
             "audio": "",
             "cad": "CAD Models/1_alba/scene.gltf"
         },
         {
-            "title": "The Lock Artist",
-            "cad": "",
-            "link": "https://www.india.gov.in/",
-            "img": "la.jpg",
-            "author": {
-              "firstName": "Steve",
-              "lastName": "Hamilton"
-            }
+            "title": "Hump back whales",
+            "link": "https://en.wikipedia.org/wiki/Humpback_whale",
+            "img": "images/insp/2_whale.jpg",
+            "desc": 
+            {
+              "shortdesc": "By comparing bumpy blades to smooth-edged ones, Fish and colleagues found that stalling occurs at a much higher angle with tubercles – an increase by nearly 40 per cent, in fact. They deduced this higher angle proficiency was beneficial for the whale in allowing it to manoeuvre in tight circles, hence how they circle and entrap their prey in a ‘net’ of bubbles. Further testing by Fish also revealed that serrated-edge wind turbines proved to be more efficient and quieter than the typical smooth blades. This led to the formation of WhalePower tubercle technology, a company developing a range of tubercle technology products, with a range of blade applications, including wind turbines, hydroelectric turbines, irrigation pumps, ventilation pumps.",
+              "longdesc": ""
+            },
+            "audio": "",
+            "cad": ""
         },
         {
-            "title": "HTML5",
-            "cad": "CAD Models/scene.gltf",
-            "link": "https://www.india.gov.in/",
-            "img": "clogo.png",
-            "author": {
-              "firstName": "Remy",
-              "lastName": "Sharp"
-            }
-        }
+            "title": "Box fish",
+            "link": "https://en.wikipedia.org/wiki/Ostraciidae",
+            "img": "images/insp/3_box.png",
+            "desc": 
+            {
+              "shortdesc": "Despite the cumbersome appearance of the boxfish, it has a low flow resistance and a drag coefficient of an astounding 0.06. In comparison, penguins swimming through water have a coefficient of 0.1. In 2005, inspired by the great structural strength and low mass of the boxfish, Mercedes Benz developed the Bionic Car, which reported to reduce drag, have great rigidity, low weight and a significantly lower fuel consumption than traditional cars.",
+              "longdesc": ""
+            },
+            "audio": "",
+            "cad": ""
+        },
+        {
+          "title": "Kingfisher",
+          "link": "https://en.wikipedia.org/wiki/Kingfisher",
+          "img": "images/insp/4_king.jpg",
+          "desc": 
+          {
+            "shortdesc": "Japan is renowned for the incredible speed and efficiency of their trains. However, with speeds in excess of 300km/h, bullet trains presented a problem in creating huge sonic boom every time they emerged from a tunnel. An unfortunate result of changing air pressures, this source of noise pollution greatly disturbed local residents and placed pressure on engineers to address the problem. This they did, and drew inspiration from a rather unlikely source: the Kingfisher. Kingfishers are masters in travelling between the mediums of air water, with very little splash. Just like the Kingfisher, the Shinkansen bullet train is equipped with a long beak-shaped nose. This significantly reduces the amount of noise the train makes, but also uses 15 per cent less electricity, and travels 10 per cent faster than before.",
+            "longdesc": ""
+          },
+          "audio": "",
+          "cad": ""
+      },
+      {
+        "title": "Velcro",
+        "link": "https://www.livescience.com/34572-velcro.html",
+        "img": "images/insp/5_velcro.jpg",
+        "desc": 
+        {
+          "shortdesc": "George de Mestral was inspired to invent Velcro after noticing how easy it was for burrs to stick to his dog’s hair. Upon studying them under a microscope, he noticed the simple design of tiny hooks at the end of the burr’s spines. These were able to catch anything with a loop, such as fur and fabric, and he went on to replicate this synthetically. His two-part velcro fastening system uses a strip of loosely looping nylon opposite a strip of tiny hooks, and has since been prolific in its range of applications and popularity.",
+          "longdesc": ""
+        },
+        "audio": "",
+        "cad": ""
+    },
+    {
+      "title": "Ornithopter",
+      "link": "",
+      "img": "images/insp/6_orni.jpg",
+      "desc": 
+      {
+        "shortdesc": "Perhaps one of the most famous examples of biomimicry is evident in the history of human flight. Leonardo da Vinci is largely recognised as a key instigator in its development, as he made the first real studies on birds and human flight in the 1480s. His original design, called the Ornithopter, was never created, but was a principal in showing how man could potentially fly. Several designers and engineers worked on this bird-inspired concept in the following years, for instance Otto Lilienthal completed more than 2,500 flights in a glider, but it was not until 1903 that the Wright brothers flew the first powered, heavier-than-air machine in a controlled and sustainable flight. This technology went on to define the aerial developments of 20th century and the technology seen in the air today.",
+        "longdesc": ""
+      },
+      "audio": "",
+      "cad": ""
+  },
+  {
+    "title": "Lotus leaves",
+    "link": "",
+    "img": "images/insp/7_lotus.jpg",
+    "desc": 
+    {
+      "shortdesc": "The lotus effect, otherwise known as superhydrophobicity, is the effect seen on the leaves of the Lotus flower, where water is not able to wet the surface and simply rolls off. This high repellence is due to the nanostructure of the plane, where micro-protrusions coated in waxy hydrophobic materials repel the water. This is also a self-cleaning mechanism as dirt particles also stick to the water molecule. Copying this process, CeNano developed nanotol – a hydrophobic (water-repelling), lipophobic (fat-repelling), and oleophobic (oil-repelling) sealant that can be sprayed to substances to create their own superhydrophobicity. The applications of these are huge, and amazingly satisfying to watch.",
+      "longdesc": ""
+    },
+    "audio": "",
+    "cad": ""
+  }
       ]
 }
